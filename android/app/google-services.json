@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "649238816603",
+    "project_id": "pushnotification-ede36",
+    "storage_bucket": "pushnotification-ede36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649238816603:android:834b87272d469d8d09dc7e",
+        "android_client_info": {
+          "package_name": "com.example.todo_workshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxRbIUczYyAOkY-dqVPQ7SyTE6cXiAytk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
